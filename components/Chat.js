@@ -15,7 +15,7 @@ function Chat({ id, users }) {
   );
   console.log("rec snap", recipientSnapshot);
   const recipient = recipientSnapshot?.docs?.[1]?.data();
-  console.log("recipient", recipient);   // undefine
+  console.log("recipient", recipient); 
 
   const enterChat = () => {
     router.push(`/chat/${id}`);
