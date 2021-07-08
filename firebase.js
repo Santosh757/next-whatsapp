@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB5ebmGWtLyph8O01eU3Z0BwEiujGFqYzk",
+  apiKey: "Your firebase apiKey",
   authDomain: "next-whatsapp-7cde1.firebaseapp.com",
   projectId: "next-whatsapp-7cde1",
   storageBucket: "next-whatsapp-7cde1.appspot.com",
